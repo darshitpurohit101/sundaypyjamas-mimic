@@ -1,0 +1,75 @@
+.fix_title{
+    position: fixed;
+    top:5px;
+    font-size:xx-large;
+    width: 100%;
+    height: 15%;
+    background-color: #cc3743;
+    color: whitesmoke;
+    letter-spacing: 7px;
+    text-align: left;
+}
+
+.welcome{
+    font-size: 50px;
+    padding-top: 80px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.welcome section{
+    font-size: 20px;
+    color: whitesmoke;
+    width:auto;
+    padding-top: 25px;
+    float: inherit;
+}
+
+.service{
+    width: auto;
+    font-size: 35px;
+    padding-top: 50px;
+    color: whitesmoke;
+    display: inline-flex;
+    
+    
+}
+
+.inline{
+    
+  text-align: center;
+}
+
+.service span{
+    font-size: 15px;
+}
+
+.service .line{
+   
+    padding-top: 50px;
+    padding-right: 30px;
+    text-align: center;
+
+}
+
+.contact{
+    padding-top: 100px; 
+    text-align: center;
+    color: whitesmoke;
+}
+
+.contact .account{
+    font-size: 20px;
+    padding-right: 50px;
+}
+
+.contact .one{
+    display:inline-flex;
+}
+
+body{
+    text-align: center;
+    background-color:#cc3743;
+    backface-visibility: 0.5;
+}
+

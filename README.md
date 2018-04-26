@@ -1,2 +1,0 @@
-# sundaypyjamas-mimic
-Task1
